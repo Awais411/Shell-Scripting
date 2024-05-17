@@ -35,7 +35,11 @@ By exploring these scripts, you can gain a solid understanding of:
 
 **Running the Scripts:**
 
-* **Make Executable (if necessary):** Some scripts might require execution permissions. You can grant them using the **chmod +x script_name.sh** command (replace **script_name.sh** with the actual filename).
+* **Make Executable (if necessary):** Some scripts might require execution permissions. You can grant them using the
+  ```bash
+  chmod +x script_name.sh
+  ```
+   (replace **script_name.sh** with the actual filename).
 * **Execute the Script:** Once executable, run the script from your terminal by typing **./script_name.sh**
 
 **Disclaimer:**
